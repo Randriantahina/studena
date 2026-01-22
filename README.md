@@ -258,6 +258,3 @@ npm run build
 - **PHP 8.4** - Langage de programmation
 - **SQLite** - Base de données
 
-## Licence
-
-MIT
