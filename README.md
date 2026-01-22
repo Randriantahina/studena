@@ -256,8 +256,7 @@ npm run build
 
 - **Laravel 12** - Framework PHP
 - **PHP 8.4** - Langage de programmation
-- **MySQL** - Base de données
-- **Pest** - Framework de tests
+- **SQLite** - Base de données
 
 ## Licence
 
